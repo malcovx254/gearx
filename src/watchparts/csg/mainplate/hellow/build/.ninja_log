@@ -1,0 +1,5 @@
+# ninja log v7
+3	18159	7820705027139524	build.ninja	8bcbcf0ec7c567fb
+3	18159	7820705027139524	C:/msys64/home/user/dev/watch/mainplate/hellow/build/cmake_install.cmake	8bcbcf0ec7c567fb
+3	3448	7820705033398475	CMakeFiles/OpenCSGDemo.dir/main.cpp.obj	9ecb5406bb190200
+3450	5610	7820705067837254	OpenCSGDemo.exe	763979d3985ff45e
