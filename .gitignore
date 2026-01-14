@@ -19,5 +19,4 @@ Makefile
 *.a
 *.dylib
 
-TODO*.txt
-token.txt
+*.txt
