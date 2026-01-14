@@ -20,3 +20,4 @@ Makefile
 *.dylib
 
 TODO*.txt
+token.txt
