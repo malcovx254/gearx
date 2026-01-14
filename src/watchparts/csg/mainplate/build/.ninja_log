@@ -1,0 +1,13 @@
+# ninja log v7
+6	1561	7864747303971541	CMakeFiles/OpenCSGDemo.dir/main.cpp.obj	5aebce99bcbdda98
+1561	1851	7864747319463469	OpenCSGDemo.exe	ba655753b281f507
+5	2796	7875210678418613	build.ninja	46d9bffb5ed161b0
+5	2796	7875210678418613	C:/msys64/home/user/dev/watch/mainplate/build/cmake_install.cmake	46d9bffb5ed161b0
+6	1002	7864609787372747	CMakeFiles/OpenCSGDemo.dir/C_/msys64/home/user/dev/watch/objects/shape2D_renderfunctions.cpp.obj	e7b5e8e7e507152b
+16	1497	7862258055813692	CMakeFiles/OpenCSGDemo.dir/C_/msys64/home/user/dev/watch/objects/shape3D_renderfunctions.cpp.obj	708a2e79e6beed76
+7	2257	7875210678418613	build.ninja	46d9bffb5ed161b0
+7	2257	7875210678418613	C:/msys64/home/user/dev/watch/mainplate/build/cmake_install.cmake	46d9bffb5ed161b0
+20	687	7875210679658251	CMakeFiles/OpenCSGDemo.dir/C_/msys64/home/user/dev/watch/shapes/cache/circle_cache.cpp.obj	290b1b24400f4276
+7	688	7875210679658251	CMakeFiles/OpenCSGDemo.dir/C_/msys64/home/user/dev/watch/vector.cpp.obj	a15af685a6d2f74d
+37	1394	7875210679973369	CMakeFiles/OpenCSGDemo.dir/C_/msys64/home/user/dev/watch/shapes/3d/flat_renderfunctions.cpp.obj	93d439dba26bdee0
+51	1548	7875210679973369	CMakeFiles/OpenCSGDemo.dir/C_/msys64/home/user/dev/watch/shapes/3d/solid_renderfunctions.cpp.obj	8e5742fb3850a857
