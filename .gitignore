@@ -1,2 +1,22 @@
-/build/*
-/test/*
+# ビルドディレクトリ全体を除外
+/test/
+/build/
+/build_*/
+
+# CMakeが生成する一時的なキャッシュやファイル
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+Makefile
+
+# コンパイル済みバイナリ（実行ファイルやライブラリ）
+*.exe
+*.out
+*.app
+*.so
+*.a
+*.dylib
+
+TODO*.txt
